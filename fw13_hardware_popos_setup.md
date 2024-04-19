@@ -1,4 +1,4 @@
-# POP!_OS 22.04 LTS Installation on the Framework Laptop 13 AMD
+#Framework Laptop 13 AMD amd PopOS Setup
 
 Written By: Kevin Redington (and contributors)
 
