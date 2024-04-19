@@ -5,4 +5,7 @@ Written By: Kevin Redington (and contributors)
 Setup USB Drive
 - AMD .ISO
 
-DRAFT
+Hardware
+Turn Off Protection
+Change iGPU Memory to Gamming settings to improve CAD related tasks
+
